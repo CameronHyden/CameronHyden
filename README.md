@@ -25,6 +25,8 @@ Please view the current tech stack I am learning to master:
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"  width="100"/>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  width="100"/>
       <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"  width="100"/>
+	<img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"  width="100"/>
+
   </div>
 <!--
 **CameronHyden/CameronHyden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
