@@ -1,9 +1,6 @@
 <div id="header" align="center">
 	
 ![GitBannerbanner (2)](https://user-images.githubusercontent.com/97288818/171265374-302026af-3cd7-488e-9ebb-c46b2de6b5ae.svg)
-
-
-
   </div>
 
 <h3>
