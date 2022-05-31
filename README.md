@@ -1,8 +1,7 @@
 <div id="header" align="center">
- <h2>
-Hi there 👋 my name is Cameron Hyden 👨‍💻 </br>
-   Junior software developer 
-  </h2>
+	
+![GitBannerbanner](https://user-images.githubusercontent.com/97288818/171263887-f3993989-c20f-4911-9219-c12bd21af989.svg)
+
   </div>
 
 <h3>
