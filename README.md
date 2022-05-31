@@ -7,7 +7,7 @@
   About me:
 	
 - 🔭 I’m currently working on a personal stackoverflow application!
-- 🌱 I’m currently learning to build functioning API's with Springboot and MySQL
+- 🌱 I’m currently learning to build high performing, full stack applications with node JS
 - 📫 How to reach me: [linkedin](linkedin.com/in/cameron-hyden-730669116)
 - ⚡ Fun fact: I am a triplet!
   </h3>
